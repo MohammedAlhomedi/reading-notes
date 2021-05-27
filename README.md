@@ -9,4 +9,4 @@ Am Mohammed AL-homedi , I have bachelor degree in management information system 
 | ----------- | ----------- |
 | read1 | [learningmarkdown](learningmarkdown)
 | read2 | [Markdown](markdown) |
-| read3 | [growth](growthMindset) |
+| Lab01 | [growth](growthMindset) |
