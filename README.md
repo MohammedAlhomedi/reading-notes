@@ -11,5 +11,4 @@ Am Mohammed AL-homedi , I have bachelor degree in management information system 
 | read2 | [Markdown](read2.md) |
 | read3 | [Structure web pages with HTML](read3.md) |
 | Lab01 | [growth](lab1.md) |
-| Lab3 |  [Lab3 Structure web pages with HTML](lab3.html) |
 
