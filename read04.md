@@ -2,7 +2,7 @@
 
 *The word dynamic is used to describe both client-side JavaScript, and server side languages it refers to the ability to update the display of a web page/app to show different things in different circumstances, generating new content as required*
  
- #### The operatores are :
+ The operatores are :
  -----------
  1-Compound assignment operators.
 
