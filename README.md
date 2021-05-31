@@ -13,5 +13,6 @@ Am Mohammed AL-homedi , I have bachelor degree in management information system 
 | read04 | [Dynamic web pages with JavaScript](read04.md) |
 | read5 | [Operators and Loops](read5.md) |
 | read6 | [Programming with JavaScript](read6.md) |
+| read06b | [Design web pages with CSS](read06b.md) |
 | Lab01 | [growth](lab1.md) |
 
